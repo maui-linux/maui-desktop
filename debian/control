@@ -1,0 +1,14 @@
+Source: netrunner-desktop
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: netrunner-desktop
+Architecture: all
+Recommends: netrunner-system, netrunner-artwork, netrunner-artwork-backgrounds, netrunner-artwork-icons, netrunner-artwork-firefox, netrunner-artwork-thunderbird, netrunner-default-settings, plymouth-theme-netrunner-logo, netrunner-systemsettings-settings, kio-sysinfo, base-files
+Conflicts: plasma-netbook, kubuntu-desktop
+Replaces: plasma-netbook, kubuntu-desktop
+Description: Meta package for the Netrunner desktop environment
+   Meta package for the Netrunner desktop environment
