@@ -10,7 +10,7 @@ Architecture: all
 Recommends: about-distro,
             ark,
             baloo-kf5,
-            base-files,
+            base-files (>= 9),
             bluedevil,
             breeze,
             burgerspace,
