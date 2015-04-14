@@ -8,7 +8,7 @@ Standards-Version: 3.7.2
 Package: netrunner-desktop
 Architecture: all
 Recommends: about-distro,
-            apt-xapian-index.
+            apt-xapian-index,
             firefox-plasma,
             ark,
             baloo-kf5,
