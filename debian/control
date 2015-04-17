@@ -8,6 +8,7 @@ Standards-Version: 3.7.2
 Package: netrunner-desktop
 Architecture: all
 Recommends: about-distro,
+            alsa-utils,
             apt-xapian-index,
             ark,
             baloo-kf5,
@@ -16,6 +17,7 @@ Recommends: about-distro,
             breeze,
             burgerspace,
             cheese,
+            command-not-found,
             dolphin,
             expanding-icons-taskmanager,
             ffmpegthumbnailer,
