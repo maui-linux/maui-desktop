@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
 Package: netrunner-desktop
-Architecture: any
+Architecture: all
 Recommends: about-distro,
             alsa-utils,
             apt-xapian-index,
@@ -164,7 +164,7 @@ Description: Meta package for the Netrunner desktop environment
    Meta package for the Netrunner desktop environment
 
 Package: netrunner-arm
-Architecture: any
+Architecture: all
 Recommends: about-distro,
             alsa-utils,
             apt-xapian-index,
