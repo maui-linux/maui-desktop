@@ -314,3 +314,9 @@ Conflicts: kubuntu-desktop, plasma-netbook
 Replaces: kubuntu-desktop, plasma-netbook
 Description: Meta package for the Netrunner ARM environment
    Meta package for the Netrunner ARM environment
+
+Package: netrunner-cloud-arm
+Architecture: all
+Depends: netrunner-arm, owncloud
+Description: Meta package for the Netrunner Cloud ARM environment
+   Meta package for the Netrunner Cloud ARM environment
