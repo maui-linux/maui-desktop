@@ -317,6 +317,6 @@ Description: Meta package for the Netrunner ARM environment
 
 Package: netrunner-cloud-arm
 Architecture: all
-Depends: netrunner-arm, owncloud
+Depends: nano, netrunner-arm, owncloud, yacy
 Description: Meta package for the Netrunner Cloud ARM environment
    Meta package for the Netrunner Cloud ARM environment
