@@ -92,6 +92,7 @@ Recommends: about-distro,
             marble,
             milou,
             mintupdate,
+            nano,
             netrunner-artwork,
             netrunner-artwork-backgrounds,
             netrunner-artwork-firefox,
@@ -247,6 +248,7 @@ Recommends: about-distro,
             marble,
             milou,
             mintupdate,
+            nano,
             netrunner-artwork,
             netrunner-artwork-backgrounds,
             netrunner-artwork-firefox,
@@ -314,4 +316,3 @@ Conflicts: kubuntu-desktop, plasma-netbook
 Replaces: kubuntu-desktop, plasma-netbook
 Description: Meta package for the Netrunner ARM environment
    Meta package for the Netrunner ARM environment
-
