@@ -315,13 +315,3 @@ Replaces: kubuntu-desktop, plasma-netbook
 Description: Meta package for the Netrunner ARM environment
    Meta package for the Netrunner ARM environment
 
-Package: netrunner-cloud-arm
-Architecture: all
-Depends: nano,
-         netrunner-arm,
-         oracle-java8-installer,
-         oracle-java8-set-default,
-         owncloud,
-         yacy
-Description: Meta package for the Netrunner Cloud ARM environment
-   Meta package for the Netrunner Cloud ARM environment
