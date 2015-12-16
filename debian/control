@@ -300,6 +300,7 @@ Recommends: about-distro,
             vokoscreen,
             wine,
             winetricks,
+            x11vnc,
             xdg-user-dirs,
             yakuake
 Depends: console-data,
