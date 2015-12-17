@@ -302,6 +302,7 @@ Recommends: about-distro,
             winetricks,
             x11vnc,
             xdg-user-dirs,
+            xvfb,
             yakuake
 Depends: console-data,
          console-setup,
