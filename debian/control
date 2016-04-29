@@ -293,7 +293,8 @@ Recommends: about-distro,
             x11vnc,
             xdg-user-dirs,
             xvfb,
-            yakuake
+            yakuake,
+            zram-config
 Depends: console-data,
          console-setup,
          kbd,
