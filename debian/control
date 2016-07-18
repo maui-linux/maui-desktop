@@ -141,8 +141,6 @@ Recommends: about-distro,
             virtualbox-guest-dkms,
             vlc,
             vokoscreen,
-            wine,
-            winetricks,
             xdg-user-dirs,
             yakuake
 Depends: console-data,
