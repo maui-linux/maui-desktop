@@ -1,2 +1,2 @@
-# netrunner-desktop
-A metapackage for installing the Netrunner desktop specific packages
+# maui-desktop
+A metapackage for installing the Maui desktop specific packages
